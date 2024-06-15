@@ -8,7 +8,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=firasbenslimen&" alt="firasbenslimen" /></p>
+<h3><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=firasbenslimen&" alt="firasbenslimen" /></h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
