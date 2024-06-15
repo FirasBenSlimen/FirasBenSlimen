@@ -5,6 +5,7 @@
 <a href="mailto:your.benslimenefiras456@gmail.com"><img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"> </a>
 </p>
 
+<p align="center" dir="auto"> <img src="https://komarev.com/ghpvc/?username=firasbenslimen&label=Profile%20views&color=0e75b6&style=flat" alt="firasbenslimen" /> </p>
 
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Cloud & DevOps Engineer Student</h3><a id="user-content-fullstack-web-developer-from-tunisia" class="anchor" aria-label="Permalink: Cloud & DevOps Engineer Student" ><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
@@ -18,12 +19,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firasbenslimen&label=Profile%20views&color=0e75b6&style=flat" alt="firasbenslimen" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/firas ben slimene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firas ben slimene" height="30" width="40" /></a>
-</p>
 
   
  
