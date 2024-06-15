@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firas Ben Slimene</h1>
-<p align="center">
-  <a href="mailto:your.email@gmail.com">Gmail</a> |
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">LinkedIn</a>
+<p align="left">
+<a href="https://linkedin.com/in/firas ben slimene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firas ben slimene" height="30" width="40" /></a>
 </p>
 <h3 align="center">Cloud & DevOps Engineer Student</h3>
 
