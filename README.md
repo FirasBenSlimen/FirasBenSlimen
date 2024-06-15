@@ -6,9 +6,9 @@
 <p>I'm enthusiastic about exploring new technologies, including Docker, Kubernetes, Terraform, and Azure, where I specialize in CI/CD pipelines, configuration management, and deploying large-scale applications. </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firasbenslimen&show_icons=true&locale=en&layout=compact" alt="firasbenslimen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firasbenslimen&show_icons=true&locale=en" alt="firasbenslimen" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=firasbenslimen&show_icons=true&locale=en" alt="firasbenslimen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firasbenslimen&" alt="firasbenslimen" /></p>
 
