@@ -5,7 +5,7 @@
 <!--
 <p align="center">
   
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+Ben+Ismail+Aziz!;Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)](https://github.com/FirasBenSlimen)) 
   </p> -->
 <!--  Ceci mon Avatar-->
 <img title="My Avatar" align="left" src="https://github.com/FirasBenSlimen/FirasBenSlimen/blob/main/448352237_452825210684592_3553002048360822257_nn.jpg"  width="500px" alt="hi" >
